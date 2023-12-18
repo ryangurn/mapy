@@ -1,0 +1,864 @@
+{
+    "type": "FeatureCollection",
+    "id": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+    "properties": {
+        "id": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+        "name": "Washington",
+        "updated_date": "2023-12-13T19:54:44Z",
+        "time_created": "2023-12-12T18:21:45Z",
+        "notes": "",
+        "cover_photo_id": null
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.251241,
+                    45.81832
+                ]
+            },
+            "id": "fa72157e-ca95-4071-8c67-8e2b5b97ca0d",
+            "properties": {
+                "id": "fa72157e-ca95-4071-8c67-8e2b5b97ca0d",
+                "updated_date": "2023-12-13T19:54:25Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Sunset Campground",
+                "public": false,
+                "is_active": true,
+                "icon": "attraction",
+                "revision": 1702497284,
+                "notes": "",
+                "latitude": 45.81832,
+                "longitude": -122.251241,
+                "elevation": 320,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "attraction"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.203831,
+                    45.916221
+                ]
+            },
+            "id": "9c83bcc2-720e-4a52-8f1e-4dc1015d1048",
+            "properties": {
+                "id": "9c83bcc2-720e-4a52-8f1e-4dc1015d1048",
+                "updated_date": "2023-12-13T19:54:10Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Canyon Creek Campground",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497284,
+                "notes": "",
+                "latitude": 45.916221,
+                "longitude": -122.203831,
+                "elevation": 388,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.11393,
+                    48.06611
+                ]
+            },
+            "id": "1d88e5767ec8bbc9b149bea9ec68d7e4",
+            "properties": {
+                "id": "1d88e5767ec8bbc9b149bea9ec68d7e4",
+                "updated_date": "2023-12-13T19:53:45Z",
+                "time_created": "2023-12-13T19:53:31Z",
+                "deleted": false,
+                "title": "Klahowya Campground",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497284,
+                "notes": "",
+                "latitude": 48.06611,
+                "longitude": -124.11393,
+                "elevation": null,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.111021,
+                    47.974589
+                ]
+            },
+            "id": "a3dfbcab-6e45-4810-b264-d70c250c5f1c",
+            "properties": {
+                "id": "a3dfbcab-6e45-4810-b264-d70c250c5f1c",
+                "updated_date": "2023-12-12T18:13:14Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702497284,
+                "notes": "",
+                "latitude": 47.974589,
+                "longitude": -123.111021,
+                "elevation": 294,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.019828,
+                    47.682673
+                ]
+            },
+            "id": "ad3eae65-183e-4298-92fe-c927f0ad2739",
+            "properties": {
+                "id": "ad3eae65-183e-4298-92fe-c927f0ad2739",
+                "updated_date": "2023-12-12T18:13:14Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702497284,
+                "notes": "",
+                "latitude": 47.682673,
+                "longitude": -123.019828,
+                "elevation": 103,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.15228,
+                    47.59951
+                ]
+            },
+            "id": "9dc3c95c-7061-4514-bbc3-bf43cd4682dd",
+            "properties": {
+                "id": "9dc3c95c-7061-4514-bbc3-bf43cd4682dd",
+                "updated_date": "2023-12-13T19:58:40Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497520,
+                "notes": "",
+                "latitude": 47.59951,
+                "longitude": -123.15228,
+                "elevation": 218,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.915177,
+                    48.070467
+                ]
+            },
+            "id": "bfa188b8-a0df-4a99-bc78-5f4f2330eff7",
+            "properties": {
+                "id": "bfa188b8-a0df-4a99-bc78-5f4f2330eff7",
+                "updated_date": "2023-12-12T18:13:15Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702497284,
+                "notes": "",
+                "latitude": 48.070467,
+                "longitude": -123.915177,
+                "elevation": 225,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.23819,
+                    45.7981
+                ]
+            },
+            "id": "e199f9837109c862f36bb69141f63947",
+            "properties": {
+                "id": "e199f9837109c862f36bb69141f63947",
+                "updated_date": "2023-12-13T19:54:44Z",
+                "time_created": "2023-12-13T19:54:39Z",
+                "deleted": false,
+                "title": "Copper City Campsite",
+                "public": false,
+                "is_active": true,
+                "icon": "red-pin-down.png",
+                "revision": 1702497285,
+                "notes": "",
+                "latitude": 45.7981,
+                "longitude": -122.23819,
+                "elevation": null,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.31098,
+                    47.40902
+                ]
+            },
+            "id": "cc3435ea-f195-4b14-aa52-b4be26f8b5bf",
+            "properties": {
+                "id": "cc3435ea-f195-4b14-aa52-b4be26f8b5bf",
+                "updated_date": "2023-12-13T19:57:18Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497438,
+                "notes": "",
+                "latitude": 47.40902,
+                "longitude": -123.31098,
+                "elevation": 164,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.36404,
+                    47.89425
+                ]
+            },
+            "id": "c4c9c5a2-bad3-488b-9fd3-261ab8ab42d7",
+            "properties": {
+                "id": "c4c9c5a2-bad3-488b-9fd3-261ab8ab42d7",
+                "updated_date": "2023-12-13T21:40:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702503607,
+                "notes": "",
+                "latitude": 47.89425,
+                "longitude": -124.36404,
+                "elevation": 80,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.68767,
+                    47.48176
+                ]
+            },
+            "id": "32c15969-e6a9-4e06-898a-0a804523f105",
+            "properties": {
+                "id": "32c15969-e6a9-4e06-898a-0a804523f105",
+                "updated_date": "2023-12-13T19:55:56Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497356,
+                "notes": "",
+                "latitude": 47.48176,
+                "longitude": -123.68767,
+                "elevation": 364,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.925572,
+                    47.792706
+                ]
+            },
+            "id": "fda956df-13dc-4b56-8d2b-c325e93de063",
+            "properties": {
+                "id": "fda956df-13dc-4b56-8d2b-c325e93de063",
+                "updated_date": "2023-12-12T18:13:15Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702497284,
+                "notes": "",
+                "latitude": 47.792706,
+                "longitude": -122.925572,
+                "elevation": 141,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.56601,
+                    47.36789
+                ]
+            },
+            "id": "6d26f4c3-3302-4ed5-8348-809369ca5109",
+            "properties": {
+                "id": "6d26f4c3-3302-4ed5-8348-809369ca5109",
+                "updated_date": "2023-12-13T19:56:14Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497374,
+                "notes": "",
+                "latitude": 47.36789,
+                "longitude": -123.56601,
+                "elevation": 324,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.21875,
+                    47.46466
+                ]
+            },
+            "id": "6aa60996-c13e-4a98-9888-755c347c9e96",
+            "properties": {
+                "id": "6aa60996-c13e-4a98-9888-755c347c9e96",
+                "updated_date": "2023-12-13T19:57:50Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497470,
+                "notes": "",
+                "latitude": 47.46466,
+                "longitude": -123.21875,
+                "elevation": 241,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.6053,
+                    47.39055
+                ]
+            },
+            "id": "7802254c-65f6-4380-907a-c1bd5f421927",
+            "properties": {
+                "id": "7802254c-65f6-4380-907a-c1bd5f421927",
+                "updated_date": "2023-12-13T19:56:06Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497366,
+                "notes": "",
+                "latitude": 47.39055,
+                "longitude": -123.6053,
+                "elevation": 267,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.31903,
+                    47.4134
+                ]
+            },
+            "id": "cb2098b5-e649-4f5a-93f4-7b20d77af901",
+            "properties": {
+                "id": "cb2098b5-e649-4f5a-93f4-7b20d77af901",
+                "updated_date": "2023-12-13T19:56:46Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497406,
+                "notes": "",
+                "latitude": 47.4134,
+                "longitude": -123.31903,
+                "elevation": 179,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.32964,
+                    47.51467
+                ]
+            },
+            "id": "661739b7-9135-468c-8be4-34069a2d944e",
+            "properties": {
+                "id": "661739b7-9135-468c-8be4-34069a2d944e",
+                "updated_date": "2023-12-13T19:58:12Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497492,
+                "notes": "",
+                "latitude": 47.51467,
+                "longitude": -123.32964,
+                "elevation": 263,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.21867,
+                    47.42923
+                ]
+            },
+            "id": "cbaf1fc9-6f05-4115-ab6b-f93d37026d10",
+            "properties": {
+                "id": "cbaf1fc9-6f05-4115-ab6b-f93d37026d10",
+                "updated_date": "2023-12-13T19:57:41Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497461,
+                "notes": "",
+                "latitude": 47.42923,
+                "longitude": -123.21867,
+                "elevation": 233,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.892942,
+                    47.708142
+                ]
+            },
+            "id": "1c536d6d-169b-4677-98c9-723eece5f7f6",
+            "properties": {
+                "id": "1c536d6d-169b-4677-98c9-723eece5f7f6",
+                "updated_date": "2023-12-12T18:13:15Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702497284,
+                "notes": "",
+                "latitude": 47.708142,
+                "longitude": -122.892942,
+                "elevation": 24,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.30299,
+                    47.96449
+                ]
+            },
+            "id": "1376d77e-2e82-4f09-a009-3912e1597e2c",
+            "properties": {
+                "id": "1376d77e-2e82-4f09-a009-3912e1597e2c",
+                "updated_date": "2023-12-13T21:39:52Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702503592,
+                "notes": "",
+                "latitude": 47.96449,
+                "longitude": -124.30299,
+                "elevation": 142,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.93405,
+                    47.85953
+                ]
+            },
+            "id": "13ce1794-6f53-4d71-aea9-61d867dbcfe3",
+            "properties": {
+                "id": "13ce1794-6f53-4d71-aea9-61d867dbcfe3",
+                "updated_date": "2023-12-13T21:40:32Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping+visitor center",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702503632,
+                "notes": "",
+                "latitude": 47.85953,
+                "longitude": -123.93405,
+                "elevation": 197,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.17668,
+                    47.50438
+                ]
+            },
+            "id": "28821855-79b3-4532-a80f-307c61de88dd",
+            "properties": {
+                "id": "28821855-79b3-4532-a80f-307c61de88dd",
+                "updated_date": "2023-12-13T19:58:22Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497502,
+                "notes": "",
+                "latitude": 47.50438,
+                "longitude": -123.17668,
+                "elevation": 296,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.901181,
+                    47.689653
+                ]
+            },
+            "id": "69f20b8a-4671-463d-9521-c78c2a6b79e6",
+            "properties": {
+                "id": "69f20b8a-4671-463d-9521-c78c2a6b79e6",
+                "updated_date": "2023-12-12T18:13:15Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702497284,
+                "notes": "",
+                "latitude": 47.689653,
+                "longitude": -122.901181,
+                "elevation": 9,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.21009,
+                    47.49269
+                ]
+            },
+            "id": "5e2fa7b1-0334-400c-b340-74e458962423",
+            "properties": {
+                "id": "5e2fa7b1-0334-400c-b340-74e458962423",
+                "updated_date": "2023-12-13T19:58:00Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497480,
+                "notes": "",
+                "latitude": 47.49269,
+                "longitude": -123.21009,
+                "elevation": 302,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.12296,
+                    47.59524
+                ]
+            },
+            "id": "87d9ee11-c33a-4832-a21a-5229db384592",
+            "properties": {
+                "id": "87d9ee11-c33a-4832-a21a-5229db384592",
+                "updated_date": "2023-12-13T19:58:51Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "camping",
+                "public": false,
+                "is_active": true,
+                "icon": "campsite-24",
+                "revision": 1702497531,
+                "notes": "",
+                "latitude": 47.59524,
+                "longitude": -123.12296,
+                "elevation": 183,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "1257bbfc-5523-4ee3-8442-8955b0cb49d4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#0479FF",
+                "marker_decoration": "campsite"
+            }
+        }
+    ]
+}

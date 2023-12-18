@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "id": "673806bb-1a15-4219-8959-6d87cf928342",
+    "properties": {
+        "id": "673806bb-1a15-4219-8959-6d87cf928342",
+        "name": "California",
+        "updated_date": "2023-12-12T18:34:26Z",
+        "time_created": "2023-12-12T18:34:26Z",
+        "notes": "",
+        "cover_photo_id": null
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.90831,
+                    34.142924
+                ]
+            },
+            "id": "76b19f80-5845-4877-a2bb-6547d2d05d92",
+            "properties": {
+                "id": "76b19f80-5845-4877-a2bb-6547d2d05d92",
+                "updated_date": "2023-12-12T18:13:12Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Family Property",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702406088,
+                "notes": "",
+                "latitude": 34.142924,
+                "longitude": -115.90831,
+                "elevation": 494,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "673806bb-1a15-4219-8959-6d87cf928342",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.980938,
+                    34.142766
+                ]
+            },
+            "id": "d2c38c40-848e-4806-b2c6-67dc964fe36c",
+            "properties": {
+                "id": "d2c38c40-848e-4806-b2c6-67dc964fe36c",
+                "updated_date": "2023-12-12T18:13:12Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Family Property",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702406111,
+                "notes": "",
+                "latitude": 34.142766,
+                "longitude": -115.980938,
+                "elevation": 587,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "673806bb-1a15-4219-8959-6d87cf928342",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        }
+    ]
+}

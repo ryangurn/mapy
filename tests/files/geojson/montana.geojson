@@ -1,0 +1,3652 @@
+{
+    "type": "FeatureCollection",
+    "id": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+    "properties": {
+        "id": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+        "name": "Montana",
+        "updated_date": "2023-12-12T19:39:40Z",
+        "time_created": "2023-12-12T18:24:59Z",
+        "notes": "",
+        "cover_photo_id": null
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.521217,
+                    46.687721
+                ]
+            },
+            "id": "37e659cf-0537-4094-9431-c94f02061135",
+            "properties": {
+                "id": "37e659cf-0537-4094-9431-c94f02061135",
+                "updated_date": "2023-12-12T18:13:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.687721,
+                "longitude": -111.521217,
+                "elevation": 1469,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.493352,
+                    46.618538
+                ]
+            },
+            "id": "a42b05ce-dece-4a43-aacd-bada7e69b77a",
+            "properties": {
+                "id": "a42b05ce-dece-4a43-aacd-bada7e69b77a",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.618538,
+                "longitude": -111.493352,
+                "elevation": 1416,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.430594,
+                    46.474273
+                ]
+            },
+            "id": "f5c8ccf0-1387-4934-94a9-3291fd5d1850",
+            "properties": {
+                "id": "f5c8ccf0-1387-4934-94a9-3291fd5d1850",
+                "updated_date": "2023-12-12T18:13:10Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "No longer plowed",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.474273,
+                "longitude": -112.430594,
+                "elevation": 1680,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.593992,
+                    46.652475
+                ]
+            },
+            "id": "540970f6-0da8-4be0-810e-8d240e4e6873",
+            "properties": {
+                "id": "540970f6-0da8-4be0-810e-8d240e4e6873",
+                "updated_date": "2023-12-12T18:13:12Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Stream no bridge",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.652475,
+                "longitude": -111.593992,
+                "elevation": 1351,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.64431,
+                    46.688541
+                ]
+            },
+            "id": "df5188de-57ca-474e-aac9-622741caaa7d",
+            "properties": {
+                "id": "df5188de-57ca-474e-aac9-622741caaa7d",
+                "updated_date": "2023-12-12T18:13:08Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Corey gulch camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.688541,
+                "longitude": -111.64431,
+                "elevation": 1399,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.81477,
+                    46.477977
+                ]
+            },
+            "id": "0bd7f96e-7cfd-4d26-8bbb-553e80322648",
+            "properties": {
+                "id": "0bd7f96e-7cfd-4d26-8bbb-553e80322648",
+                "updated_date": "2023-12-12T18:13:09Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Explore Me",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.477977,
+                "longitude": -111.81477,
+                "elevation": 1726,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.526833,
+                    46.607627
+                ]
+            },
+            "id": "80df2a89-bc51-4761-b879-4efbd188120c",
+            "properties": {
+                "id": "80df2a89-bc51-4761-b879-4efbd188120c",
+                "updated_date": "2023-12-12T18:13:11Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private Property?",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409982,
+                "notes": "Looks like this might go through state owned property so traveling over it might be fine.",
+                "latitude": 46.607627,
+                "longitude": -111.526833,
+                "elevation": 1302,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.581896,
+                    46.674942
+                ]
+            },
+            "id": "04a820fc-4c23-451c-b8bf-205f4bb788d2",
+            "properties": {
+                "id": "04a820fc-4c23-451c-b8bf-205f4bb788d2",
+                "updated_date": "2023-12-12T18:13:04Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.674942,
+                "longitude": -111.581896,
+                "elevation": 1544,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.514251,
+                    46.561964
+                ]
+            },
+            "id": "12a26552-b7f4-4a1f-9018-9ab82b8faf2e",
+            "properties": {
+                "id": "12a26552-b7f4-4a1f-9018-9ab82b8faf2e",
+                "updated_date": "2023-12-12T18:13:11Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.561964,
+                "longitude": -111.514251,
+                "elevation": 1269,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.61516,
+                    46.705923
+                ]
+            },
+            "id": "0bf7a7ec-1c1a-4f91-9463-32b02f872a7f",
+            "properties": {
+                "id": "0bf7a7ec-1c1a-4f91-9463-32b02f872a7f",
+                "updated_date": "2023-12-12T18:13:04Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.705923,
+                "longitude": -111.61516,
+                "elevation": 1415,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.601954,
+                    46.729568
+                ]
+            },
+            "id": "0a3f5350-a24e-4f6a-b30d-8da75a80e1c6",
+            "properties": {
+                "id": "0a3f5350-a24e-4f6a-b30d-8da75a80e1c6",
+                "updated_date": "2023-12-12T18:13:04Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.729568,
+                "longitude": -111.601954,
+                "elevation": 1496,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.555436,
+                    46.6426
+                ]
+            },
+            "id": "0c65280b-d516-4d70-a298-aa6d42dd39f8",
+            "properties": {
+                "id": "0c65280b-d516-4d70-a298-aa6d42dd39f8",
+                "updated_date": "2023-12-12T18:13:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.6426,
+                "longitude": -111.555436,
+                "elevation": 1325,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.755591,
+                    46.672865
+                ]
+            },
+            "id": "0f60653d-ac25-4041-9902-37482d495bce",
+            "properties": {
+                "id": "0f60653d-ac25-4041-9902-37482d495bce",
+                "updated_date": "2023-12-12T18:13:11Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Road",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.672865,
+                "longitude": -111.755591,
+                "elevation": 1287,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.763205,
+                    46.673387
+                ]
+            },
+            "id": "12e21f97-6804-4c7e-9f9e-006acf01199d",
+            "properties": {
+                "id": "12e21f97-6804-4c7e-9f9e-006acf01199d",
+                "updated_date": "2023-12-12T18:13:04Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping Nook",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.673387,
+                "longitude": -111.763205,
+                "elevation": 1300,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.358531,
+                    44.89674
+                ]
+            },
+            "id": "2506b07d-f747-41e9-b025-618ee4923c88",
+            "properties": {
+                "id": "2506b07d-f747-41e9-b025-618ee4923c88",
+                "updated_date": "2023-12-12T18:13:00Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 44.89674,
+                "longitude": -111.358531,
+                "elevation": 2044,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.599783,
+                    46.735634
+                ]
+            },
+            "id": "bb1b99da-7345-43d6-a67e-5044ab958907",
+            "properties": {
+                "id": "bb1b99da-7345-43d6-a67e-5044ab958907",
+                "updated_date": "2023-12-12T18:13:03Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.735634,
+                "longitude": -111.599783,
+                "elevation": 1517,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.510003,
+                    46.612119
+                ]
+            },
+            "id": "6a83fdf7-79dc-4dd6-80c2-4b80299442b4",
+            "properties": {
+                "id": "6a83fdf7-79dc-4dd6-80c2-4b80299442b4",
+                "updated_date": "2023-12-12T18:13:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.612119,
+                "longitude": -111.510003,
+                "elevation": 1374,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.481131,
+                    46.619406
+                ]
+            },
+            "id": "1dcf1088-6900-48f9-ab52-ed47d30c0470",
+            "properties": {
+                "id": "1dcf1088-6900-48f9-ab52-ed47d30c0470",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.619406,
+                "longitude": -111.481131,
+                "elevation": 1436,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.204324,
+                    48.829443
+                ]
+            },
+            "id": "9ef63cda-1125-4c33-b4f2-8bea96b7328b",
+            "properties": {
+                "id": "9ef63cda-1125-4c33-b4f2-8bea96b7328b",
+                "updated_date": "2023-12-12T18:13:02Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 48.829443,
+                "longitude": -114.204324,
+                "elevation": 1246,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.57987,
+                    46.739595
+                ]
+            },
+            "id": "46348c07-87e9-4b89-b1e6-5554e2df2279",
+            "properties": {
+                "id": "46348c07-87e9-4b89-b1e6-5554e2df2279",
+                "updated_date": "2023-12-12T18:13:03Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.739595,
+                "longitude": -111.57987,
+                "elevation": 2014,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.496529,
+                    46.413495
+                ]
+            },
+            "id": "2e8d0d7a-f2e7-43cf-81f9-6a7ae0adafec",
+            "properties": {
+                "id": "2e8d0d7a-f2e7-43cf-81f9-6a7ae0adafec",
+                "updated_date": "2023-12-12T18:13:08Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Explore",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.413495,
+                "longitude": -112.496529,
+                "elevation": 1906,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.346369,
+                    48.936007
+                ]
+            },
+            "id": "5eda14be-62a8-46b6-814a-6d1369b4b6d0",
+            "properties": {
+                "id": "5eda14be-62a8-46b6-814a-6d1369b4b6d0",
+                "updated_date": "2023-12-12T18:13:02Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 48.936007,
+                "longitude": -114.346369,
+                "elevation": 1233,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.780112,
+                    46.665799
+                ]
+            },
+            "id": "9d257a13-25d9-435d-aff3-9452dcedefee",
+            "properties": {
+                "id": "9d257a13-25d9-435d-aff3-9452dcedefee",
+                "updated_date": "2023-12-12T18:13:12Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Road closed",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "This might just be for winter",
+                "latitude": 46.665799,
+                "longitude": -111.780112,
+                "elevation": 1177,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.498116,
+                    46.726695
+                ]
+            },
+            "id": "1fbdfd5f-1405-4ba6-8ca3-0da15077a30b",
+            "properties": {
+                "id": "1fbdfd5f-1405-4ba6-8ca3-0da15077a30b",
+                "updated_date": "2023-12-12T18:13:02Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.726695,
+                "longitude": -111.498116,
+                "elevation": 1562,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.563063,
+                    46.741906
+                ]
+            },
+            "id": "c0b51890-7205-4115-bf8e-f79e093c749e",
+            "properties": {
+                "id": "c0b51890-7205-4115-bf8e-f79e093c749e",
+                "updated_date": "2023-12-12T18:13:03Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.741906,
+                "longitude": -111.563063,
+                "elevation": 2070,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.512538,
+                    46.561649
+                ]
+            },
+            "id": "a41edb7f-4e4b-45e2-b914-887f7590dbec",
+            "properties": {
+                "id": "a41edb7f-4e4b-45e2-b914-887f7590dbec",
+                "updated_date": "2023-12-12T18:13:11Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.561649,
+                "longitude": -111.512538,
+                "elevation": 1273,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.531444,
+                    46.765094
+                ]
+            },
+            "id": "8cb47da2-c290-46cb-bf40-814ddc9b7077",
+            "properties": {
+                "id": "8cb47da2-c290-46cb-bf40-814ddc9b7077",
+                "updated_date": "2023-12-12T18:13:02Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.765094,
+                "longitude": -111.531444,
+                "elevation": 2000,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.465021,
+                    46.624051
+                ]
+            },
+            "id": "701e4f4d-a426-4cbc-98af-aaec076c0129",
+            "properties": {
+                "id": "701e4f4d-a426-4cbc-98af-aaec076c0129",
+                "updated_date": "2023-12-12T18:13:08Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Closed to motor vehicles",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "Might just be during winter",
+                "latitude": 46.624051,
+                "longitude": -111.465021,
+                "elevation": 1472,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.528948,
+                    46.751064
+                ]
+            },
+            "id": "40a43117-bd7d-45e6-b45c-387a267be3e8",
+            "properties": {
+                "id": "40a43117-bd7d-45e6-b45c-387a267be3e8",
+                "updated_date": "2023-12-12T18:13:02Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.751064,
+                "longitude": -111.528948,
+                "elevation": 1783,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.53326,
+                    46.675721
+                ]
+            },
+            "id": "2083a92c-1853-4b20-ab43-97b1ee06838a",
+            "properties": {
+                "id": "2083a92c-1853-4b20-ab43-97b1ee06838a",
+                "updated_date": "2023-12-12T18:13:06Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.675721,
+                "longitude": -111.53326,
+                "elevation": 1442,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.521667,
+                    46.744765
+                ]
+            },
+            "id": "843d33a0-374f-48ae-b43c-f93cc7a41132",
+            "properties": {
+                "id": "843d33a0-374f-48ae-b43c-f93cc7a41132",
+                "updated_date": "2023-12-12T18:13:02Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409982,
+                "notes": "",
+                "latitude": 46.744765,
+                "longitude": -111.521667,
+                "elevation": 1696,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.515363,
+                    46.555925
+                ]
+            },
+            "id": "4f391403-c506-4920-9b01-5c89ad630bf5",
+            "properties": {
+                "id": "4f391403-c506-4920-9b01-5c89ad630bf5",
+                "updated_date": "2023-12-12T18:13:10Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "No Road (Private)",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.555925,
+                "longitude": -111.515363,
+                "elevation": 1252,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.503649,
+                    46.613667
+                ]
+            },
+            "id": "6074549a-8540-4d74-8c53-3cdbe1cf21c4",
+            "properties": {
+                "id": "6074549a-8540-4d74-8c53-3cdbe1cf21c4",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.613667,
+                "longitude": -111.503649,
+                "elevation": 1378,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.989682,
+                    45.505179
+                ]
+            },
+            "id": "42214036-fb31-443d-a824-c63e9561a312",
+            "properties": {
+                "id": "42214036-fb31-443d-a824-c63e9561a312",
+                "updated_date": "2023-12-12T18:13:10Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Fun Road",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409982,
+                "notes": "",
+                "latitude": 45.505179,
+                "longitude": -110.989682,
+                "elevation": 1962,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.48904,
+                    46.618173
+                ]
+            },
+            "id": "60544638-c4db-4aa1-8550-855e96e1f1cd",
+            "properties": {
+                "id": "60544638-c4db-4aa1-8550-855e96e1f1cd",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.618173,
+                "longitude": -111.48904,
+                "elevation": 1418,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.463629,
+                    48.251357
+                ]
+            },
+            "id": "1358f133-6f52-438e-9266-b39960e44f02",
+            "properties": {
+                "id": "1358f133-6f52-438e-9266-b39960e44f02",
+                "updated_date": "2023-12-12T18:13:08Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Devils Creek Campground",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 48.251357,
+                "longitude": -113.463629,
+                "elevation": 1343,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.883902,
+                    46.438044
+                ]
+            },
+            "id": "23573282-9112-486e-aa03-8d0ddc89b55e",
+            "properties": {
+                "id": "23573282-9112-486e-aa03-8d0ddc89b55e",
+                "updated_date": "2023-12-12T18:13:09Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Explore Me",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.438044,
+                "longitude": -111.883902,
+                "elevation": 1774,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.388832,
+                    46.432829
+                ]
+            },
+            "id": "242e4591-9640-489f-8c32-ddef94aa4265",
+            "properties": {
+                "id": "242e4591-9640-489f-8c32-ddef94aa4265",
+                "updated_date": "2023-12-12T18:13:09Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Explore",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.432829,
+                "longitude": -112.388832,
+                "elevation": 1813,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.598304,
+                    46.751346
+                ]
+            },
+            "id": "2ab2979b-5a8a-49a4-91dd-b90a411f369b",
+            "properties": {
+                "id": "2ab2979b-5a8a-49a4-91dd-b90a411f369b",
+                "updated_date": "2023-12-12T18:13:09Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Explore more",
+                "public": false,
+                "is_active": true,
+                "icon": "rail-24",
+                "revision": 1702409981,
+                "notes": "Possible camping\nLooks like a trail\nDeep snow",
+                "latitude": 46.751346,
+                "longitude": -111.598304,
+                "elevation": 1554,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#F42410",
+                "marker_decoration": "rail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.804187,
+                    46.674346
+                ]
+            },
+            "id": "2f3c0adc-51e5-4d11-a1ed-73ccbc6d1e68",
+            "properties": {
+                "id": "2f3c0adc-51e5-4d11-a1ed-73ccbc6d1e68",
+                "updated_date": "2023-12-12T18:13:11Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private route",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.674346,
+                "longitude": -111.804187,
+                "elevation": 1120,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.495839,
+                    46.724643
+                ]
+            },
+            "id": "309f1bf8-c243-4bb6-8e2f-4dc3a2d72d67",
+            "properties": {
+                "id": "309f1bf8-c243-4bb6-8e2f-4dc3a2d72d67",
+                "updated_date": "2023-12-12T18:13:12Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Stuck car",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.724643,
+                "longitude": -111.495839,
+                "elevation": 1560,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.585326,
+                    46.73238
+                ]
+            },
+            "id": "3384f5ab-b3c7-4fb2-81c4-e2edc0549eab",
+            "properties": {
+                "id": "3384f5ab-b3c7-4fb2-81c4-e2edc0549eab",
+                "updated_date": "2023-12-12T18:13:03Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.73238,
+                "longitude": -111.585326,
+                "elevation": 1984,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.501831,
+                    46.614453
+                ]
+            },
+            "id": "34908455-3b3b-4263-95e3-3b87724920fb",
+            "properties": {
+                "id": "34908455-3b3b-4263-95e3-3b87724920fb",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.614453,
+                "longitude": -111.501831,
+                "elevation": 1381,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.577336,
+                    46.603965
+                ]
+            },
+            "id": "36449fd9-7e0a-40a2-b1cb-3b5d55e1c50f",
+            "properties": {
+                "id": "36449fd9-7e0a-40a2-b1cb-3b5d55e1c50f",
+                "updated_date": "2023-12-12T18:13:11Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private Property",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "Looking at onX this appears to be state owned property.",
+                "latitude": 46.603965,
+                "longitude": -111.577336,
+                "elevation": 1225,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.503105,
+                    46.614936
+                ]
+            },
+            "id": "3c487dcb-5f08-4ad3-8806-293ac633a124",
+            "properties": {
+                "id": "3c487dcb-5f08-4ad3-8806-293ac633a124",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.614936,
+                "longitude": -111.503105,
+                "elevation": 1387,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.512005,
+                    46.611922
+                ]
+            },
+            "id": "3e2f17bf-1c54-4a56-9f32-753fb56ddcbf",
+            "properties": {
+                "id": "3e2f17bf-1c54-4a56-9f32-753fb56ddcbf",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Bears",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.611922,
+                "longitude": -111.512005,
+                "elevation": 1365,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.646317,
+                    46.68211
+                ]
+            },
+            "id": "47cbd936-4b7d-4d82-82fc-720b68da3f6e",
+            "properties": {
+                "id": "47cbd936-4b7d-4d82-82fc-720b68da3f6e",
+                "updated_date": "2023-12-12T18:13:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.68211,
+                "longitude": -111.646317,
+                "elevation": 1332,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.623446,
+                    46.697201
+                ]
+            },
+            "id": "48c1bfd6-4feb-45ec-9df2-37e7638615b1",
+            "properties": {
+                "id": "48c1bfd6-4feb-45ec-9df2-37e7638615b1",
+                "updated_date": "2023-12-12T18:13:06Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Cabin",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.697201,
+                "longitude": -111.623446,
+                "elevation": 1422,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.556602,
+                    46.749993
+                ]
+            },
+            "id": "4a0a7e96-503c-40fa-916f-723c257ab28e",
+            "properties": {
+                "id": "4a0a7e96-503c-40fa-916f-723c257ab28e",
+                "updated_date": "2023-12-12T18:13:01Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.749993,
+                "longitude": -111.556602,
+                "elevation": 2054,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.60898,
+                    46.716146
+                ]
+            },
+            "id": "4c3e151b-ec87-4e45-ac46-ff5f8fd5b685",
+            "properties": {
+                "id": "4c3e151b-ec87-4e45-ac46-ff5f8fd5b685",
+                "updated_date": "2023-12-12T18:13:03Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.716146,
+                "longitude": -111.60898,
+                "elevation": 1440,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.615571,
+                    46.701572
+                ]
+            },
+            "id": "4e7c6973-e9c8-4d33-8fd7-e69ac5189f51",
+            "properties": {
+                "id": "4e7c6973-e9c8-4d33-8fd7-e69ac5189f51",
+                "updated_date": "2023-12-12T18:13:06Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camp site",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.701572,
+                "longitude": -111.615571,
+                "elevation": 1400,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.46076,
+                    46.625786
+                ]
+            },
+            "id": "4f72968d-e25f-40b2-b0b8-a3cbee3abde6",
+            "properties": {
+                "id": "4f72968d-e25f-40b2-b0b8-a3cbee3abde6",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.625786,
+                "longitude": -111.46076,
+                "elevation": 1473,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.506828,
+                    46.612897
+                ]
+            },
+            "id": "5302657d-bf4a-4777-8077-9cc727111e66",
+            "properties": {
+                "id": "5302657d-bf4a-4777-8077-9cc727111e66",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.612897,
+                "longitude": -111.506828,
+                "elevation": 1371,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.512727,
+                    46.577856
+                ]
+            },
+            "id": "547063bc-4d5a-49e2-b27a-1f678e65c548",
+            "properties": {
+                "id": "547063bc-4d5a-49e2-b27a-1f678e65c548",
+                "updated_date": "2023-12-12T18:13:11Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.577856,
+                "longitude": -111.512727,
+                "elevation": 1305,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.493784,
+                    46.723453
+                ]
+            },
+            "id": "56868aed-3f36-4398-a183-6ea68b0550dd",
+            "properties": {
+                "id": "56868aed-3f36-4398-a183-6ea68b0550dd",
+                "updated_date": "2023-12-12T18:13:02Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.723453,
+                "longitude": -111.493784,
+                "elevation": 1561,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.502863,
+                    46.734179
+                ]
+            },
+            "id": "595748dd-c29c-467d-a7ab-5ca2ef192896",
+            "properties": {
+                "id": "595748dd-c29c-467d-a7ab-5ca2ef192896",
+                "updated_date": "2023-12-12T18:13:02Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.734179,
+                "longitude": -111.502863,
+                "elevation": 1587,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.594907,
+                    46.649558
+                ]
+            },
+            "id": "62e9d98d-ac09-4443-9b8f-74722836c1ec",
+            "properties": {
+                "id": "62e9d98d-ac09-4443-9b8f-74722836c1ec",
+                "updated_date": "2023-12-12T18:13:06Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.649558,
+                "longitude": -111.594907,
+                "elevation": 1328,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.510605,
+                    46.594136
+                ]
+            },
+            "id": "63d5faca-01a0-4da1-b9dd-842802416193",
+            "properties": {
+                "id": "63d5faca-01a0-4da1-b9dd-842802416193",
+                "updated_date": "2023-12-12T18:13:08Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Closed Road",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "Might only be during winter.",
+                "latitude": 46.594136,
+                "longitude": -111.510605,
+                "elevation": 1350,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.415443,
+                    46.541406
+                ]
+            },
+            "id": "65b63f18-3b72-487a-94ce-40f6317e22c2",
+            "properties": {
+                "id": "65b63f18-3b72-487a-94ce-40f6317e22c2",
+                "updated_date": "2023-12-12T18:13:11Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private property?",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "After looking at onX this appears to be Helena NF.",
+                "latitude": 46.541406,
+                "longitude": -112.415443,
+                "elevation": 1689,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.586264,
+                    46.604117
+                ]
+            },
+            "id": "6cfb00e0-8219-4648-bb9b-a3b387cfbd58",
+            "properties": {
+                "id": "6cfb00e0-8219-4648-bb9b-a3b387cfbd58",
+                "updated_date": "2023-12-12T18:13:11Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private Property",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "Looking at onX it might be state property...",
+                "latitude": 46.604117,
+                "longitude": -111.586264,
+                "elevation": 1218,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.590262,
+                    46.75241
+                ]
+            },
+            "id": "7967ff82-002a-42c0-9194-9b3b63c9650d",
+            "properties": {
+                "id": "7967ff82-002a-42c0-9194-9b3b63c9650d",
+                "updated_date": "2023-12-12T18:13:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "No real road in winter",
+                "latitude": 46.75241,
+                "longitude": -111.590262,
+                "elevation": 1600,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.495232,
+                    46.70438
+                ]
+            },
+            "id": "7ae29ae7-b202-48b2-8236-3a6c4ca5dea3",
+            "properties": {
+                "id": "7ae29ae7-b202-48b2-8236-3a6c4ca5dea3",
+                "updated_date": "2023-12-12T18:13:06Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.70438,
+                "longitude": -111.495232,
+                "elevation": 1520,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.929649,
+                    46.424385
+                ]
+            },
+            "id": "7bb5b46d-8454-4a98-9395-f455b21ee819",
+            "properties": {
+                "id": "7bb5b46d-8454-4a98-9395-f455b21ee819",
+                "updated_date": "2023-12-12T18:13:01Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.424385,
+                "longitude": -111.929649,
+                "elevation": 1465,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.885404,
+                    48.605873
+                ]
+            },
+            "id": "7cc90b62-f33c-4a7e-acc2-fe47399dcca3",
+            "properties": {
+                "id": "7cc90b62-f33c-4a7e-acc2-fe47399dcca3",
+                "updated_date": "2023-12-12T18:13:01Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Sqrague Creek Campground",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 48.605873,
+                "longitude": -113.885404,
+                "elevation": 976,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.723094,
+                    46.70488
+                ]
+            },
+            "id": "7cd86484-770c-4c8c-9cd6-0db3fd811846",
+            "properties": {
+                "id": "7cd86484-770c-4c8c-9cd6-0db3fd811846",
+                "updated_date": "2023-12-12T18:13:12Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private Property",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.70488,
+                "longitude": -111.723094,
+                "elevation": 1378,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.449531,
+                    46.630358
+                ]
+            },
+            "id": "7fbaa356-bc84-4492-be1c-c8cf0241389a",
+            "properties": {
+                "id": "7fbaa356-bc84-4492-be1c-c8cf0241389a",
+                "updated_date": "2023-12-12T18:13:04Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.630358,
+                "longitude": -111.449531,
+                "elevation": 1511,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.894679,
+                    46.439896
+                ]
+            },
+            "id": "81814d1c-3e88-4def-a63e-9f1cc5fa4551",
+            "properties": {
+                "id": "81814d1c-3e88-4def-a63e-9f1cc5fa4551",
+                "updated_date": "2023-12-12T18:13:01Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.439896,
+                "longitude": -111.894679,
+                "elevation": 1728,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.721733,
+                    46.701873
+                ]
+            },
+            "id": "82942e17-44a3-4f63-8971-b9c0b21a02f4",
+            "properties": {
+                "id": "82942e17-44a3-4f63-8971-b9c0b21a02f4",
+                "updated_date": "2023-12-12T18:13:08Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Closed",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "Might have only been during winter.",
+                "latitude": 46.701873,
+                "longitude": -111.721733,
+                "elevation": 1385,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.551386,
+                    46.757366
+                ]
+            },
+            "id": "8f95cbc7-e2b8-4ddb-ac02-ca0df7b9a0fe",
+            "properties": {
+                "id": "8f95cbc7-e2b8-4ddb-ac02-ca0df7b9a0fe",
+                "updated_date": "2023-12-12T18:13:03Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.757366,
+                "longitude": -111.551386,
+                "elevation": 2061,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.487938,
+                    46.710781
+                ]
+            },
+            "id": "97295dc5-c9b3-45d9-a2de-a80f7abbf1be",
+            "properties": {
+                "id": "97295dc5-c9b3-45d9-a2de-a80f7abbf1be",
+                "updated_date": "2023-12-12T18:13:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.710781,
+                "longitude": -111.487938,
+                "elevation": 1547,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.419711,
+                    46.463452
+                ]
+            },
+            "id": "9a02a821-48f4-4450-8843-dbe7b251b322",
+            "properties": {
+                "id": "9a02a821-48f4-4450-8843-dbe7b251b322",
+                "updated_date": "2023-12-12T18:13:09Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Deep snow",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.463452,
+                "longitude": -112.419711,
+                "elevation": 1700,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.786793,
+                    46.676962
+                ]
+            },
+            "id": "9a2a0ffc-bfc2-4930-b980-8b72d44012b6",
+            "properties": {
+                "id": "9a2a0ffc-bfc2-4930-b980-8b72d44012b6",
+                "updated_date": "2023-12-12T18:13:04Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.676962,
+                "longitude": -111.786793,
+                "elevation": 1171,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.475587,
+                    46.619447
+                ]
+            },
+            "id": "a88539c8-225d-481f-ac30-d99b6077c32d",
+            "properties": {
+                "id": "a88539c8-225d-481f-ac30-d99b6077c32d",
+                "updated_date": "2023-12-12T18:13:12Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Sign",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.619447,
+                "longitude": -111.475587,
+                "elevation": 1437,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.729576,
+                    46.704141
+                ]
+            },
+            "id": "a8e25c56-c6b4-4a70-89f9-054989dafedc",
+            "properties": {
+                "id": "a8e25c56-c6b4-4a70-89f9-054989dafedc",
+                "updated_date": "2023-12-12T18:13:10Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Parking",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.704141,
+                "longitude": -111.729576,
+                "elevation": 1370,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.768106,
+                    46.666835
+                ]
+            },
+            "id": "a9751bf2-fc9d-4552-938c-3c782f9836cc",
+            "properties": {
+                "id": "a9751bf2-fc9d-4552-938c-3c782f9836cc",
+                "updated_date": "2023-12-12T18:13:11Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private Property",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.666835,
+                "longitude": -111.768106,
+                "elevation": 1203,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.59925,
+                    46.739392
+                ]
+            },
+            "id": "aabd9efa-f734-4c5e-bd4f-41e32d3562cb",
+            "properties": {
+                "id": "aabd9efa-f734-4c5e-bd4f-41e32d3562cb",
+                "updated_date": "2023-12-12T18:13:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "Right off the road",
+                "latitude": 46.739392,
+                "longitude": -111.59925,
+                "elevation": 1532,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.723774,
+                    46.707981
+                ]
+            },
+            "id": "abc7aec1-533f-4294-b831-7ac74f17e1f1",
+            "properties": {
+                "id": "abc7aec1-533f-4294-b831-7ac74f17e1f1",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Blocked",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "Might only be winter.",
+                "latitude": 46.707981,
+                "longitude": -111.723774,
+                "elevation": 1346,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.776224,
+                    46.671418
+                ]
+            },
+            "id": "b479e3ea-8fbe-4a51-9962-e22ae03288d1",
+            "properties": {
+                "id": "b479e3ea-8fbe-4a51-9962-e22ae03288d1",
+                "updated_date": "2023-12-12T18:13:08Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Closed",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.671418,
+                "longitude": -111.776224,
+                "elevation": 1234,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.722029,
+                    46.704727
+                ]
+            },
+            "id": "b58f6137-fb9d-491a-8ac3-66a093510018",
+            "properties": {
+                "id": "b58f6137-fb9d-491a-8ac3-66a093510018",
+                "updated_date": "2023-12-12T18:13:08Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Closed",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "Might be winter only",
+                "latitude": 46.704727,
+                "longitude": -111.722029,
+                "elevation": 1387,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.555057,
+                    46.648161
+                ]
+            },
+            "id": "b6249868-07f6-4c00-be05-2a503952aa8b",
+            "properties": {
+                "id": "b6249868-07f6-4c00-be05-2a503952aa8b",
+                "updated_date": "2023-12-12T18:13:01Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.648161,
+                "longitude": -111.555057,
+                "elevation": 1354,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.40952,
+                    46.554448
+                ]
+            },
+            "id": "bc23d973-ec40-4088-ba1d-7d0b28e35cc2",
+            "properties": {
+                "id": "bc23d973-ec40-4088-ba1d-7d0b28e35cc2",
+                "updated_date": "2023-12-12T18:13:08Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Closed/private",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409982,
+                "notes": "",
+                "latitude": 46.554448,
+                "longitude": -112.40952,
+                "elevation": 1567,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.694741,
+                    46.6638
+                ]
+            },
+            "id": "c6f25c1c-68ff-43ec-a537-856641926bb8",
+            "properties": {
+                "id": "c6f25c1c-68ff-43ec-a537-856641926bb8",
+                "updated_date": "2023-12-12T18:13:03Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.6638,
+                "longitude": -111.694741,
+                "elevation": 1240,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.590099,
+                    46.739143
+                ]
+            },
+            "id": "c7e11c73-e601-495f-962e-99f6a9caad86",
+            "properties": {
+                "id": "c7e11c73-e601-495f-962e-99f6a9caad86",
+                "updated_date": "2023-12-12T18:13:03Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.739143,
+                "longitude": -111.590099,
+                "elevation": 1909,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.915366,
+                    46.475596
+                ]
+            },
+            "id": "c80a150f-2501-4152-939a-df6bc37fc089",
+            "properties": {
+                "id": "c80a150f-2501-4152-939a-df6bc37fc089",
+                "updated_date": "2023-12-12T18:13:09Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Explore Me",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "Inaccessible in winter 10/15-5/15",
+                "latitude": 46.475596,
+                "longitude": -111.915366,
+                "elevation": 1863,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.557149,
+                    46.640541
+                ]
+            },
+            "id": "c87318c2-d56e-4e36-8db1-90a23532c469",
+            "properties": {
+                "id": "c87318c2-d56e-4e36-8db1-90a23532c469",
+                "updated_date": "2023-12-12T18:13:06Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.640541,
+                "longitude": -111.557149,
+                "elevation": 1324,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.879139,
+                    46.530634
+                ]
+            },
+            "id": "c9062a5c-042f-43d7-a174-e198483f254b",
+            "properties": {
+                "id": "c9062a5c-042f-43d7-a174-e198483f254b",
+                "updated_date": "2023-12-12T18:13:09Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Explore Me",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "Private Property",
+                "latitude": 46.530634,
+                "longitude": -111.879139,
+                "elevation": 1320,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.561869,
+                    46.74055
+                ]
+            },
+            "id": "c92b9717-c5cc-49e6-9ffc-0a9acb59e531",
+            "properties": {
+                "id": "c92b9717-c5cc-49e6-9ffc-0a9acb59e531",
+                "updated_date": "2023-12-12T18:13:03Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.74055,
+                "longitude": -111.561869,
+                "elevation": 2088,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.499063,
+                    46.72775
+                ]
+            },
+            "id": "cb3e616d-a142-45f8-8dc6-c9bb68fc0b2e",
+            "properties": {
+                "id": "cb3e616d-a142-45f8-8dc6-c9bb68fc0b2e",
+                "updated_date": "2023-12-12T18:13:08Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Connection to hells gate",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.72775,
+                "longitude": -111.499063,
+                "elevation": 1565,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.565242,
+                    46.747779
+                ]
+            },
+            "id": "cc766614-253f-4c51-906f-4c94d7b69216",
+            "properties": {
+                "id": "cc766614-253f-4c51-906f-4c94d7b69216",
+                "updated_date": "2023-12-12T18:13:09Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Explore",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.747779,
+                "longitude": -111.565242,
+                "elevation": 1877,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.4061,
+                    46.549581
+                ]
+            },
+            "id": "d1282075-3cb7-4628-8ea6-b539cf08942c",
+            "properties": {
+                "id": "d1282075-3cb7-4628-8ea6-b539cf08942c",
+                "updated_date": "2023-12-12T18:13:10Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Open",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.549581,
+                "longitude": -112.4061,
+                "elevation": 1563,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.558783,
+                    46.638418
+                ]
+            },
+            "id": "d160a82e-0ecd-4d44-9b37-b9f71caef154",
+            "properties": {
+                "id": "d160a82e-0ecd-4d44-9b37-b9f71caef154",
+                "updated_date": "2023-12-12T18:13:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.638418,
+                "longitude": -111.558783,
+                "elevation": 1308,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.519106,
+                    46.612574
+                ]
+            },
+            "id": "d2f2a949-fbdc-4bb7-a663-38dd5694f5db",
+            "properties": {
+                "id": "d2f2a949-fbdc-4bb7-a663-38dd5694f5db",
+                "updated_date": "2023-12-12T18:13:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping spot",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "Right off the road and a bit small\n\nNot Public land",
+                "latitude": 46.612574,
+                "longitude": -111.519106,
+                "elevation": 1356,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.489404,
+                    46.618936
+                ]
+            },
+            "id": "d5c37bef-08ed-4386-86f9-551eeab7c412",
+            "properties": {
+                "id": "d5c37bef-08ed-4386-86f9-551eeab7c412",
+                "updated_date": "2023-12-12T18:13:04Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.618936,
+                "longitude": -111.489404,
+                "elevation": 1425,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.527343,
+                    46.713482
+                ]
+            },
+            "id": "d5d9a489-5382-483c-b8d9-9618fe74947b",
+            "properties": {
+                "id": "d5d9a489-5382-483c-b8d9-9618fe74947b",
+                "updated_date": "2023-12-12T18:13:06Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Abondoned building",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.713482,
+                "longitude": -113.527343,
+                "elevation": 1111,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.508274,
+                    46.612494
+                ]
+            },
+            "id": "dc208f11-6c3b-42fd-aa0e-009ffba01a1b",
+            "properties": {
+                "id": "dc208f11-6c3b-42fd-aa0e-009ffba01a1b",
+                "updated_date": "2023-12-12T18:13:05Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.612494,
+                "longitude": -111.508274,
+                "elevation": 1375,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.983403,
+                    48.524373
+                ]
+            },
+            "id": "de026ed7-9279-48f8-9b37-511c3b7d056b",
+            "properties": {
+                "id": "de026ed7-9279-48f8-9b37-511c3b7d056b",
+                "updated_date": "2023-12-12T18:13:01Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 48.524373,
+                "longitude": -113.983403,
+                "elevation": 978,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.465922,
+                    46.622623
+                ]
+            },
+            "id": "e683cf87-9f93-4c8a-91dd-db140d759c16",
+            "properties": {
+                "id": "e683cf87-9f93-4c8a-91dd-db140d759c16",
+                "updated_date": "2023-12-12T18:13:10Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "No road",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409982,
+                "notes": "",
+                "latitude": 46.622623,
+                "longitude": -111.465922,
+                "elevation": 1464,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.621987,
+                    46.716146
+                ]
+            },
+            "id": "ea1f3666-945d-43ac-a939-3ea534c1d50e",
+            "properties": {
+                "id": "ea1f3666-945d-43ac-a939-3ea534c1d50e",
+                "updated_date": "2023-12-12T18:13:07Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "mud",
+                "revision": 1702409981,
+                "notes": "Day sun \nLong road with a bunch of space \nPossible mud in spring",
+                "latitude": 46.716146,
+                "longitude": -111.621987,
+                "elevation": 1485,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "outlined-icon",
+                "marker_color": "#F42410",
+                "marker_decoration": "mud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.55811,
+                    46.739535
+                ]
+            },
+            "id": "ecb39be8-6727-4a83-bc2e-903c752c9dab",
+            "properties": {
+                "id": "ecb39be8-6727-4a83-bc2e-903c752c9dab",
+                "updated_date": "2023-12-12T18:13:03Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.739535,
+                "longitude": -111.55811,
+                "elevation": 2104,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.53226,
+                    46.763328
+                ]
+            },
+            "id": "ef1a75d3-12a5-491b-a975-478ce203397b",
+            "properties": {
+                "id": "ef1a75d3-12a5-491b-a975-478ce203397b",
+                "updated_date": "2023-12-12T18:13:02Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.763328,
+                "longitude": -111.53226,
+                "elevation": 1983,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.401925,
+                    46.502616
+                ]
+            },
+            "id": "f104a868-d817-494a-97cf-c6afd8d1523b",
+            "properties": {
+                "id": "f104a868-d817-494a-97cf-c6afd8d1523b",
+                "updated_date": "2023-12-12T18:13:06Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Blocked",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.502616,
+                "longitude": -112.401925,
+                "elevation": 1634,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.425312,
+                    46.467615
+                ]
+            },
+            "id": "f180ffdc-78e4-4ffb-9b9a-2680cb55c407",
+            "properties": {
+                "id": "f180ffdc-78e4-4ffb-9b9a-2680cb55c407",
+                "updated_date": "2023-12-12T18:13:10Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Kinda blocked",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.467615,
+                "longitude": -112.425312,
+                "elevation": 1702,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.599617,
+                    46.74445
+                ]
+            },
+            "id": "f8822737-1002-4f7a-b88e-0c79c9206928",
+            "properties": {
+                "id": "f8822737-1002-4f7a-b88e-0c79c9206928",
+                "updated_date": "2023-12-12T18:13:04Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.74445,
+                "longitude": -111.599617,
+                "elevation": 1542,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.596431,
+                    46.596322
+                ]
+            },
+            "id": "fb8263ec-4d6e-42a2-adba-75def10ee8aa",
+            "properties": {
+                "id": "fb8263ec-4d6e-42a2-adba-75def10ee8aa",
+                "updated_date": "2023-12-12T18:13:09Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Explore",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.596322,
+                "longitude": -111.596431,
+                "elevation": 1195,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.513955,
+                    46.559531
+                ]
+            },
+            "id": "fba859df-0031-46b2-949e-602baada98ba",
+            "properties": {
+                "id": "fba859df-0031-46b2-949e-602baada98ba",
+                "updated_date": "2023-12-12T18:13:10Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Private",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409981,
+                "notes": "",
+                "latitude": 46.559531,
+                "longitude": -111.513955,
+                "elevation": 1263,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.600576,
+                    46.739103
+                ]
+            },
+            "id": "fbd057b1-1e16-4708-9cd7-2d9d4bb744a2",
+            "properties": {
+                "id": "fbd057b1-1e16-4708-9cd7-2d9d4bb744a2",
+                "updated_date": "2023-12-12T18:13:04Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409982,
+                "notes": "",
+                "latitude": 46.739103,
+                "longitude": -111.600576,
+                "elevation": 1535,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.55938,
+                    46.636314
+                ]
+            },
+            "id": "fda9592e-75fd-4c03-9db5-6b62aa061433",
+            "properties": {
+                "id": "fda9592e-75fd-4c03-9db5-6b62aa061433",
+                "updated_date": "2023-12-12T18:13:06Z",
+                "time_created": "2023-12-12T18:12:34Z",
+                "deleted": false,
+                "title": "Camping",
+                "public": false,
+                "is_active": true,
+                "icon": "",
+                "revision": 1702409980,
+                "notes": "",
+                "latitude": 46.636314,
+                "longitude": -111.55938,
+                "elevation": 1305,
+                "attr": null,
+                "track_id": "",
+                "photos": [],
+                "order": null,
+                "folder": "5531bc9d-b41a-41fa-8b8e-dcc4385961f4",
+                "marker_type": "pin",
+                "marker_color": "#F42410",
+                "marker_decoration": ""
+            }
+        }
+    ]
+}
