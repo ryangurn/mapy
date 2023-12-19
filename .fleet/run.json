@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "go",
+            "name": "Mapy Import",
+            "goExecPath": "/opt/homebrew/bin/go",
+            "buildParams": [
+                "$PROJECT_DIR$/main.go"
+            ],
+            "runParams": ["./tests/files/geojson/california.geojson"],
+        },
+        
+    ]
+}
