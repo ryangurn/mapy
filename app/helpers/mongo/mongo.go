@@ -63,6 +63,9 @@ func (cnf *Mongo) SetCollection(collection string) {
 	if cnf.CurrentDatabase == "" {
 		panic("Please set the database before setting the collection")
 	}
+	if cnf.Database == nil {
+		panic("Database connection not established")
+	}
 
 	cnf.CurrentCollection = collection
 	cnf.Collection = cnf.Database.Collection(collection)
