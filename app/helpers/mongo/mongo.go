@@ -95,21 +95,35 @@ func (cnf *Mongo) AddCollection(collection string) {
 func (cnf *Mongo) CheckSetup() bool {
 	if cnf.Database == nil {
 		fmt.Println("Database is empty")
-		return false	
+		return false
 	}
-	
+
 	if cnf.Collection == nil {
 		fmt.Println("Collection is empty")
 		return false
 	}
-	
+
 	if cnf.CurrentDatabase == "" {
 		fmt.Println("CurrentDatabase is empty")
 		return false
 	}
-	
+
 	if cnf.CurrentCollection == "" {
 		fmt.Println("CurrentCollection is empty")
+		return false
+	}
+
+	return true
+}
+
+func (cnf *Mongo) CheckSetupWithoutCollection() bool {
+	if cnf.Database == nil {
+		fmt.Println("Database is empty")
+		return false
+	}
+
+	if cnf.CurrentDatabase == "" {
+		fmt.Println("CurrentDatabase is empty")
 		return false
 	}
 
